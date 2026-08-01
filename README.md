@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/494410865363954085.jfif" width="120" style="border-radius: 50%; border: 3px solid #7c6fcf;" alt="profile art">
+  <img src="./assets/494410865363954085.jfif" width="120" alt="profile art">
 </div>
 
 <br>
@@ -162,14 +162,14 @@ Principles →  clarity over cleverness · quality over noise · progress over p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xyanncat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6fcf&icon_color=7c6fcf&text_color=c9d1d9" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=xyanncat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6fcf&icon_color=7c6fcf&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub stats">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyanncat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6fcf&text_color=c9d1d9" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyanncat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6fcf&text_color=c9d1d9&cache_seconds=1800" height="165" alt="Top languages">
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyanncat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c6fcf&line=7c6fcf&point=ffffff" width="100%" alt="Activity graph">
+  <img src="https://streak-stats.demolab.com?user=xyanncat&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=7c6fcf&fire=7c6fcf&currStreakLabel=7c6fcf" width="60%" alt="GitHub streak">
 </div>
 
 ---
