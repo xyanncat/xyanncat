@@ -1,92 +1,196 @@
+<!-- Profile README — xyanncat -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/profile-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
+  <img alt="xyanncat — banner" src="./assets/profile-banner-dark.svg" width="100%">
+</picture>
+
+<br>
+
 <div align="center">
-  <img alt="Cinematic anime character profile banner" src="./assets/494410865363954085.jfif" width="100%">
+  <img src="./assets/494410865363954085.jfif" width="120" style="border-radius: 50%; border: 3px solid #7c6fcf;" alt="profile art">
 </div>
 
 <br>
 
 <div align="center">
-  <strong>Thoughtful software. Clear interfaces. Reliable systems.</strong>
-  <br>
-  <sub>I enjoy turning fuzzy ideas into useful, well-crafted digital products.</sub>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=7C6FCF&center=true&vCenter=true&width=520&lines=hi%2C+i'm+xyanncat+%F0%9F%90%88%E2%80%8D%E2%AC%9B;agentic+AI+%2B+MLOps+engineer;building+systems+that+think." alt="Typing SVG">
+  </h1>
+</div>
+
+<div align="center">
+  <em>Thoughtful software. Clear interfaces. Reliable systems.</em><br>
+  <sub>Turning fuzzy ideas into useful, well-crafted digital products — one autonomous agent at a time.</sub>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#featured-work">Work</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#toolbox">Toolbox</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#connect">Connect</a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-xyanncat-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xyanncat)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=xyanncat&style=flat-square&color=7c6fcf&label=profile+views)](https://github.com/xyanncat)
+
+</div>
+
+<br>
+
+---
+
+## ⚡ What I'm building
+
+I operate at the intersection of **Agentic AI**, **MLOps**, and **Systems Engineering** — building the infrastructure that makes AI agents reliable, observable, and autonomous in production.
+
+```text
+Focus      →  Agentic AI systems · Model reliability · Developer tooling
+Currently  →  Building an interconnected AI pipeline ecosystem
+Principles →  clarity over cleverness · quality over noise · progress over perfection
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/xyanncat/agent-orchestration-system">Agent Orchestration System</a></h3>
+      <p>Multi-agent orchestration framework where specialized AI agents collaborate via <strong>parallel task graphs</strong>, auto-retry/fallback, and shared memory. Multi-LLM backend (NVIDIA NIM + OpenRouter).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white">
+        <img src="https://img.shields.io/badge/status-BUILDING-orange?style=flat-square">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/xyanncat/Model-regression-detection-system">Model Regression Detection</a></h3>
+      <p>Continuous model monitoring system that detects <strong>performance regressions</strong> across deployment cycles — essential for production ML reliability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white">
+        <img src="https://img.shields.io/badge/status-BUILDING-orange?style=flat-square">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines">Failure Forensics Tool</a></h3>
+      <p>Root-cause analysis and diagnostic tooling for AI pipeline failures. Designed for deep introspection of training and data pipelines where failures are opaque.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/status-BUILDING-orange?style=flat-square">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/xyanncat/Noa">Noa — Autonomous Workspace</a></h3>
+      <p>An autonomous, self-managing workspace powered by AI agents. The persistent environment that ties orchestration, monitoring, and tooling together.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/status-BUILDING-orange?style=flat-square">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://github.com/xyanncat/Eternity.">Eternity. Dashboard</a></h3>
+      <p>A sleek web dashboard deployed live. Where design craft meets functional interfaces — clean TypeScript, production-ready on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+        <a href="https://eternity-dashboard.vercel.app"><img src="https://img.shields.io/badge/live-→ demo-7c6fcf?style=flat-square"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/xyanncat/Raiden">Raiden</a></h3>
+      <p>A JavaScript web application — fast, focused, and deployed. The older sibling in the frontend lineage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+        <a href="https://raiden-peach.vercel.app"><img src="https://img.shields.io/badge/live-→ demo-7c6fcf?style=flat-square"></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> **How to read my repos:**
+>
+> | Badge | Meaning |
+> |:--|:--|
+> | `FEATURED` | A polished project that best represents my work |
+> | `BUILDING` | Actively developed; expect frequent changes |
+> | `OPEN SOURCE` | Contributions, issues, and ideas are welcome |
+> | `EXPERIMENT` | A focused prototype or technical exploration |
+> | `ARCHIVED` | Complete or preserved for reference |
+
+---
+
+## 🧰 Toolbox
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / ML Stack**
+
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6E40C9?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**Web & Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 ---
 
-## About
+## 📊 GitHub Stats
 
-I’m a developer focused on building software that feels simple on the surface and stays dependable underneath. I care about the details that make products genuinely useful: sensible architecture, accessible experiences, readable code, and documentation that helps the next person move faster.
+<div align="center">
 
-My work usually lives where **product thinking**, **engineering**, and **design craft** meet. I like learning in public, refining ideas through feedback, and leaving every codebase a little clearer than I found it.
+<img src="https://github-readme-stats.vercel.app/api?username=xyanncat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6fcf&icon_color=7c6fcf&text_color=c9d1d9" height="165" alt="GitHub stats">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyanncat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6fcf&text_color=c9d1d9" height="165" alt="Top languages">
 
-```text
-Currently   → building, learning, and documenting the process
-Interested  → useful products, developer experience, and open source
-Principles  → clarity over cleverness · quality over noise · progress over perfection
-```
+</div>
 
-## Featured work
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyanncat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c6fcf&line=7c6fcf&point=ffffff" width="100%" alt="Activity graph">
+</div>
 
-My selected projects are pinned below this profile. Each repository is organized around the same quick-scan system:
+---
 
-| Label | What it tells you |
-|:--|:--|
-| `FEATURED` | A polished project that best represents my work |
-| `BUILDING` | Actively developed; expect frequent changes |
-| `OPEN SOURCE` | Contributions, issues, and ideas are welcome |
-| `EXPERIMENT` | A focused prototype or technical exploration |
-| `ARCHIVED` | Complete or preserved for reference |
+## 🌐 Connect
 
-For a professional project page, I document the **problem**, **approach**, **trade-offs**, **stack**, and **result**—not only the source code.
+<div align="center">
 
-## Toolbox
-
-Rather than treating tools as trophies, I choose them based on the problem. My working toolkit spans:
-
-<p>
-  <img alt="Frontend" src="https://img.shields.io/badge/Frontend-18181B?style=flat-square&logoColor=white">
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-18181B?style=flat-square&logoColor=white">
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-18181B?style=flat-square&logoColor=white">
-  <img alt="Databases" src="https://img.shields.io/badge/Databases-18181B?style=flat-square&logoColor=white">
-  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-18181B?style=flat-square&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F97316">
-</p>
-
-My default workflow is small iterations, visible progress, automated checks, and documentation close to the code.
-
-## How I work
-
-- **Start with the why** — understand the user, constraint, and success condition.
-- **Make complexity visible** — break large problems into decisions that can be tested.
-- **Build for the next reader** — use clear names, useful comments, and honest documentation.
-- **Finish the loop** — validate the result, capture lessons, and improve the system.
-
-## Connect
-
-I’m always happy to talk about an interesting build, exchange feedback, or contribute to a useful open-source project. The best way to reach me is through the social links in the left sidebar of this profile.
+I'm always open to interesting conversations, collaborations, and ideas.<br>
+The best way to reach me is through GitHub — open an issue, a discussion, or just explore the pinned repositories below.
 
 <br>
 
-<div align="center">
-  <img alt="Crafted with curiosity" src="./assets/profile-footer.svg" width="100%">
+[![GitHub Follow](https://img.shields.io/github/followers/xyanncat?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&color=181717)](https://github.com/xyanncat?tab=followers)
+
 </div>
 
-<!--
-PERSONALIZATION CHECKLIST
-Keep this comment private in source or remove it before publishing.
+---
 
-1. Keep the current anime banner or replace its image path with another banner you have permission to use.
-2. Rewrite the About section with your location, experience, current focus, and one human detail.
-3. Replace the broad Toolbox badges with technologies you genuinely use.
-4. Add 2–4 featured project entries above the label guide, including links and measurable outcomes.
-5. Add direct contact links only for channels you actively monitor.
-6. Create a public repository whose name exactly matches your GitHub username, then place these files in it.
--->
+<div align="center">
+  <img src="./assets/profile-footer.svg" width="100%" alt="footer">
+  <br>
+  <sub><em>building in public · learning always · shipping often</em></sub>
+</div>
