@@ -1,14 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="90" viewBox="0 0 1280 90" role="img" aria-labelledby="title">
-  <title id="title">Crafted with curiosity</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="100" viewBox="0 0 1280 100" role="img" aria-labelledby="title">
+  <title id="title">Crafted for Resilience &amp; Autonomy</title>
   <defs>
-    <linearGradient id="line" x1="0" x2="1">
-      <stop stop-color="#8b5cf6" stop-opacity="0"/>
-      <stop offset=".25" stop-color="#8b5cf6"/>
-      <stop offset=".75" stop-color="#06b6d4"/>
-      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#8b5cf6" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#06b6d4" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#f43f5e" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#f43f5e" stop-opacity="0"/>
     </linearGradient>
+    <radialGradient id="center-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <path d="M80 28h1120" stroke="url(#line)"/>
-  <circle cx="640" cy="28" r="4" fill="#8b5cf6"/>
-  <text x="640" y="66" text-anchor="middle" fill="#71717a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="3">CRAFTED WITH CURIOSITY</text>
+
+  <!-- Glowing divider line -->
+  <line x1="60" y1="35" x2="1220" y2="35" stroke="url(#footer-line)" stroke-width="2"/>
+  
+  <!-- Central glowing node -->
+  <circle cx="640" cy="35" r="14" fill="url(#center-glow)"/>
+  <circle cx="640" cy="35" r="6" fill="#0f172a" stroke="#06b6d4" stroke-width="2"/>
+  <circle cx="640" cy="35" r="2.5" fill="#67e8f9"/>
+
+  <!-- Left & Right Accent Nodes -->
+  <circle cx="340" cy="35" r="3" fill="#8b5cf6"/>
+  <circle cx="940" cy="35" r="3" fill="#f43f5e"/>
+
+  <!-- Footer Tagline -->
+  <text x="640" y="72" text-anchor="middle" fill="#818cf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="3">
+    DESIGNED FOR RESILIENCE ✦ ARCHITECTED FOR AUTONOMY ✦ SHIPPED WITH PRECISION
+  </text>
 </svg>

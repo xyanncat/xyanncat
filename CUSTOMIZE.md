@@ -1,56 +1,54 @@
-# Personalize this GitHub profile
+# xyanncat — GitHub Profile Documentation & Maintenance Guide
 
-The current README is intentionally identity-neutral because this workspace did not contain a name, GitHub username, technology stack, contact links, or project details. Use this checklist to make it unmistakably yours.
+This profile is engineered to showcase **xyanncat's** technical depth in **Agentic AI Systems**, **Multi-Agent DAG Orchestration**, **Autonomous Memory Engines**, and **Full-Stack MLOps Tooling**.
 
-## Profile details
+---
 
-Replace the generic copy with:
+## 🎨 Asset Architecture
 
-- Your display name and professional role
-- Your city/country or timezone, if useful
-- One sentence on the problems you like solving
-- Your current focus or learning goal
-- One human detail (a hobby, interest, or community)
+The profile utilizes adaptive, SVG-based assets that render seamlessly in both dark and light modes:
 
-The active header artwork is `assets/494410865363954085.jfif`. It is a 600 × 211 JPEG banner displayed at the full README width. If you replace it, use a similarly wide composition and update the image path and alt text at the top of `README.md`.
+* **Dark Banner**: [`assets/profile-banner-dark.svg`](file:///d:/Github/github%20profile/assets/profile-banner-dark.svg)
+  * Resolution: `1280 × 360`
+  * Theme: Cyberpunk Deep Indigo, Cyan, and Crimson with Neural DAG node topology.
+* **Light Banner**: [`assets/profile-banner-light.svg`](file:///d:/Github/github%20profile/assets/profile-banner-light.svg)
+  * Resolution: `1280 × 360`
+  * Theme: High-contrast Slate, Indigo, and Sky Cyan.
+* **Footer Divider**: [`assets/profile-footer.svg`](file:///d:/Github/github%20profile/assets/profile-footer.svg)
+  * Resolution: `1280 × 100`
+  * Theme: Gradient glowing vector dividing line with central glowing node.
+* **Avatar Artwork**: [`assets/494410865363954085.jfif`](file:///d:/Github/github%20profile/assets/494410865363954085.jfif)
+  * Rendered as an avatar element with custom border and drop shadow.
 
-## Featured project format
+---
 
-Add two to four projects above the label guide in `README.md`. This compact format works well:
+## 🚀 Featured Repositories Matrix
 
-```md
-### [Project name](https://github.com/USERNAME/REPOSITORY)
+The profile highlights 6 key open-source repositories:
 
-One sentence describing the problem and who the project helps.
+| Repository | Focus Area | Key Highlights |
+| :--- | :--- | :--- |
+| **`agent-orchestration-system`** | Multi-Agent DAG Orchestrator | Planner/Researcher/Coder/Reviewer/Executor DAG, NVIDIA NIM + OpenRouter multi-LLM router, SSE streaming. |
+| **`Noa`** | Autonomous AI Engine | 5-Layer Memory (Working, Short, Long, Semantic, Episodic), Liquid Glass UI, Desktop (Tauri v2 + Rust), Android APK. |
+| **`Model-regression-detection-system`** | MLOps Regression Engine | 1.5x σ noise thresholding, cheapest-first root cause isolator, strict Zod schemas, auto-rollback hooks. |
+| **`Failure-forensics-tool-for-AI-pipelines`** | Pipeline Diagnostics | `Forensic-0` CLI, zero-dependency Python stdlib Phase 1–2 engine, secret-redacted LLM reasoning. |
+| **`Eternity.`** | Discord Bot & Web Dashboard | Next.js 16 App Router, Tailwind CSS v4, Prisma ORM, PostgreSQL, Redis, Stripe subscriptions. |
+| **`Makima`** | Groq Live Stream Chatbot | Multi-platform (Twitch, YouTube Live, Kick), ultra-fast Groq Llama 3.1 70B/8B fallback, telemetry dashboard. |
 
-`FEATURED` `TypeScript` `React` `PostgreSQL`
+---
 
-- **Contribution:** what you personally designed or built
-- **Result:** a measurable outcome, useful capability, or key lesson
-```
+## 🛠️ Maintenance & Future Updates
 
-Use accurate, searchable technology tags. Keep the status label first and limit each project to three or four technical tags.
+1. **Adding a New Pinned Repository**:
+   - Add a new `<td width="50%" valign="top">` card block in the `## 🚀 Flagship Systems & Engineering Portfolio` table in `README.md`.
+   - Maintain the standardized label badge (`FEATURED`, `BUILDING`, `OPEN SOURCE`, `EXPERIMENT`, `ARCHIVED`).
 
-## Recommended repository setup
+2. **Customizing the Animated Header**:
+   - The typing SVG in `README.md` uses `readme-typing-svg.demolab.com`.
+   - Edit the `lines` query parameter to add or alter dynamic title cycles.
 
-1. Create a public GitHub repository with the exact same name as your GitHub username.
-2. Copy `README.md` and the `assets` directory to its default branch.
-3. Pin your strongest repositories from the **Customize your pins** section on your profile.
-4. Add a short description and relevant repository topics to every pinned project.
-5. Check the profile in both light and dark mode after publishing; the active banner is shared by both themes.
-
-## Details needed for a fully personalized revision
-
-Send these when you are ready for the final copy pass:
-
-```text
-Name:
-GitHub username:
-Professional title:
-Short bio / current focus:
-Core technologies:
-2–4 project links and what each does:
-Location (optional):
-Email / LinkedIn / website (optional):
-Preferred colors or style (optional):
-```
+3. **Verifying Asset Integrity**:
+   - Run Python XML validation on all SVG files whenever updating vector assets:
+     ```bash
+     python -c "import xml.etree.ElementTree as ET, glob; [ET.parse(f) for f in glob.glob('assets/*.svg')]; print('All SVGs Valid!')"
+     ```

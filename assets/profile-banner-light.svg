@@ -1,47 +1,167 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">Design, code, ship</title>
-  <desc id="desc">A light indigo developer profile banner with an abstract orbital grid.</desc>
+  <title id="title">xyanncat // AI Systems Architect</title>
+  <desc id="desc">Light mode cyber-agentic banner featuring neural DAG nodes, constellation lines, and crisp typography.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#fafafa"/>
-      <stop offset=".55" stop-color="#f5f3ff"/>
-      <stop offset="1" stop-color="#ecfeff"/>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="50%" stop-color="#f1f5f9"/>
+      <stop offset="85%" stop-color="#ede9fe"/>
+      <stop offset="100%" stop-color="#e0e7ff"/>
     </linearGradient>
-    <radialGradient id="glow" cx="76%" cy="46%" r="52%">
-      <stop stop-color="#8b5cf6" stop-opacity=".18"/>
-      <stop offset=".5" stop-color="#06b6d4" stop-opacity=".07"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="accent-grad-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#e11d48"/>
+    </linearGradient>
+
+    <!-- Radial Glows -->
+    <radialGradient id="node-glow-light-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="accent" x1="0" x2="1">
-      <stop stop-color="#7c3aed"/>
-      <stop offset="1" stop-color="#0891b2"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0v40" fill="none" stroke="#4f46e5" stroke-opacity=".07"/>
+
+    <radialGradient id="node-glow-light-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyber-grid-light" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#6366f1" stroke-opacity="0.08" stroke-width="1"/>
+      <circle cx="40" cy="40" r="1" fill="#6366f1" fill-opacity="0.15"/>
     </pattern>
-    <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
-    <clipPath id="frame"><rect width="1280" height="360" rx="24"/></clipPath>
+
+    <!-- Dot Matrix Pattern -->
+    <pattern id="dot-matrix-light" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#6366f1" fill-opacity="0.12"/>
+    </pattern>
+
+    <!-- Card Clip -->
+    <clipPath id="banner-clip-light">
+      <rect width="1280" height="360" rx="16" ry="16"/>
+    </clipPath>
   </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1280" height="360" fill="url(#bg)"/>
-    <rect width="1280" height="360" fill="url(#grid)"/>
-    <rect width="1280" height="360" fill="url(#glow)"/>
-    <circle cx="1018" cy="178" r="158" fill="none" stroke="#7c3aed" stroke-opacity=".14"/>
-    <circle cx="1018" cy="178" r="108" fill="none" stroke="#0891b2" stroke-opacity=".16"/>
-    <ellipse cx="1018" cy="178" rx="230" ry="74" transform="rotate(-18 1018 178)" fill="none" stroke="url(#accent)" stroke-opacity=".38" stroke-width="2"/>
-    <ellipse cx="1018" cy="178" rx="187" ry="53" transform="rotate(31 1018 178)" fill="none" stroke="#7c3aed" stroke-opacity=".20"/>
-    <circle cx="835" cy="106" r="7" fill="#0891b2"/>
-    <circle cx="1137" cy="267" r="5" fill="#7c3aed"/>
-    <circle cx="1018" cy="178" r="28" fill="#8b5cf6" fill-opacity=".24" filter="url(#blur)"/>
-    <circle cx="1018" cy="178" r="8" fill="#18181b"/>
-    <path d="M80 86h44" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-    <text x="80" y="153" fill="#18181b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1">DESIGN · CODE · SHIP</text>
-    <text x="82" y="205" fill="#52525b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="3">BUILDING USEFUL THINGS WITH CARE</text>
-    <g transform="translate(80 252)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">
-      <rect width="258" height="32" rx="16" fill="#18181b" fill-opacity=".04" stroke="#18181b" stroke-opacity=".10"/>
-      <circle cx="18" cy="16" r="4" fill="#0891b2"/>
-      <text x="32" y="21" fill="#3f3f46">idea → iteration → impact</text>
+
+  <g clip-path="url(#banner-clip-light)">
+    <!-- Base Background -->
+    <rect width="1280" height="360" fill="url(#bg-grad-light)"/>
+    <rect width="1280" height="360" fill="url(#cyber-grid-light)"/>
+    <rect width="1280" height="360" fill="url(#dot-matrix-light)" opacity="0.7"/>
+
+    <!-- Ambient Glow Orbs -->
+    <circle cx="1080" cy="180" r="220" fill="url(#node-glow-light-1)"/>
+    <circle cx="920" cy="100" r="160" fill="url(#node-glow-light-2)"/>
+
+    <!-- Cyber Circuit Lines -->
+    <path d="M 0,40 L 400,40 L 440,80 L 700,80" fill="none" stroke="#6366f1" stroke-opacity="0.18" stroke-width="1.5"/>
+    <path d="M 200,360 L 500,360 L 540,320 L 800,320" fill="none" stroke="#0284c7" stroke-opacity="0.18" stroke-width="1.5"/>
+    <circle cx="700" cy="80" r="3" fill="#6366f1" fill-opacity="0.5"/>
+    <circle cx="800" cy="320" r="3" fill="#0284c7" fill-opacity="0.5"/>
+
+    <!-- Right Side: Neural Constellation & DAG -->
+    <g transform="translate(40, 0)">
+      <!-- Orbital Circles -->
+      <circle cx="1000" cy="180" r="140" fill="none" stroke="#6366f1" stroke-opacity="0.18" stroke-width="1.5" stroke-dasharray="4,6"/>
+      <circle cx="1000" cy="180" r="95" fill="none" stroke="#0284c7" stroke-opacity="0.25" stroke-width="1.5"/>
+      <ellipse cx="1000" cy="180" rx="170" ry="60" transform="rotate(-25 1000 180)" fill="none" stroke="url(#accent-grad-light)" stroke-opacity="0.4" stroke-width="1.5"/>
+
+      <!-- DAG Connection Vector Lines -->
+      <line x1="880" y1="120" x2="960" y2="80" stroke="#0284c7" stroke-opacity="0.5" stroke-width="1.5"/>
+      <line x1="960" y1="80" x2="1080" y2="100" stroke="#6366f1" stroke-opacity="0.5" stroke-width="1.5"/>
+      <line x1="1080" y1="100" x2="1140" y2="170" stroke="#e11d48" stroke-opacity="0.5" stroke-width="1.5"/>
+      <line x1="880" y1="120" x2="1000" y2="180" stroke="#0284c7" stroke-opacity="0.6" stroke-width="2"/>
+      <line x1="1000" y1="180" x2="1140" y2="170" stroke="#6366f1" stroke-opacity="0.6" stroke-width="2"/>
+      <line x1="1000" y1="180" x2="940" y2="260" stroke="#6366f1" stroke-opacity="0.5" stroke-width="1.5"/>
+      <line x1="940" y1="260" x2="1060" y2="280" stroke="#0284c7" stroke-opacity="0.5" stroke-width="1.5"/>
+      <line x1="1060" y1="280" x2="1140" y2="170" stroke="#e11d48" stroke-opacity="0.5" stroke-width="1.5"/>
+
+      <!-- Central Core Node -->
+      <circle cx="1000" cy="180" r="16" fill="#e0e7ff" stroke="#4f46e5" stroke-width="2.5"/>
+      <circle cx="1000" cy="180" r="6" fill="#6366f1"/>
+      
+      <!-- Node: Planner -->
+      <circle cx="880" cy="120" r="11" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+      <circle cx="880" cy="120" r="4" fill="#0369a1"/>
+      <text x="880" y="145" fill="#0369a1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1">PLANNER</text>
+
+      <!-- Node: Researcher -->
+      <circle cx="960" cy="80" r="9" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+      <circle cx="960" cy="80" r="3" fill="#6d28d9"/>
+
+      <!-- Node: Coder -->
+      <circle cx="1080" cy="100" r="10" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+      <circle cx="1080" cy="100" r="3.5" fill="#0284c7"/>
+      <text x="1080" y="85" fill="#0369a1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1">CODER</text>
+
+      <!-- Node: Reviewer -->
+      <circle cx="1140" cy="170" r="12" fill="#ffe4e6" stroke="#e11d48" stroke-width="2"/>
+      <circle cx="1140" cy="170" r="4" fill="#be123c"/>
+      <text x="1140" y="196" fill="#be123c" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1">REVIEWER</text>
+
+      <!-- Node: 5L Memory -->
+      <circle cx="940" cy="260" r="10" fill="#ede9fe" stroke="#6366f1" stroke-width="2"/>
+      <circle cx="940" cy="260" r="3.5" fill="#4f46e5"/>
+      <text x="940" y="285" fill="#4338ca" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1">5L-MEMORY</text>
+
+      <!-- Node: Executor -->
+      <circle cx="1060" cy="280" r="11" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+      <circle cx="1060" cy="280" r="4" fill="#0284c7"/>
+      <text x="1060" y="305" fill="#0369a1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" font-weight="700" text-anchor="middle" letter-spacing="1">EXECUTOR</text>
+    </g>
+
+    <!-- Left Side: Typography & Identity -->
+    <g transform="translate(80, 68)">
+      <rect width="12" height="12" rx="3" fill="#6366f1" fill-opacity="0.15" stroke="#6366f1" stroke-width="1.5"/>
+      <circle cx="6" cy="6" r="2.5" fill="#0284c7"/>
+      <text x="22" y="10" fill="#4f46e5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.5">SYS.AI // AUTONOMOUS WORKSPACES &amp; DAG ORCHESTRATION</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="80" y="142" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="-1.5">
+      XYANNCAT
+    </text>
+
+    <!-- Gradient Accent Underline -->
+    <rect x="80" y="156" width="340" height="4" rx="2" fill="url(#accent-grad-light)"/>
+
+    <!-- Subtitle Role -->
+    <text x="80" y="196" fill="#334155" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0.5">
+      AI Systems Architect &amp; Agentic Engineer
+    </text>
+
+    <!-- Focus Description -->
+    <text x="80" y="226" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" letter-spacing="0.2">
+      Architecting Multi-Agent Task Graphs · 5-Layer AI Memory Engines · Model Forensics
+    </text>
+
+    <!-- Capability Badges Container -->
+    <g transform="translate(80, 258)">
+      <!-- Badge 1: Multi-Agent DAGs -->
+      <g transform="translate(0, 0)">
+        <rect width="180" height="32" rx="16" fill="#e0e7ff" stroke="#6366f1" stroke-width="1"/>
+        <circle cx="16" cy="16" r="4" fill="#4f46e5"/>
+        <text x="28" y="20.5" fill="#312e81" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700">DAG ORCHESTRATION</text>
+      </g>
+
+      <!-- Badge 2: Multi-LLM Routing -->
+      <g transform="translate(192, 0)">
+        <rect width="165" height="32" rx="16" fill="#e0f2fe" stroke="#0284c7" stroke-width="1"/>
+        <circle cx="16" cy="16" r="4" fill="#0284c7"/>
+        <text x="28" y="20.5" fill="#0c4a6e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700">NVIDIA NIM / GROQ</text>
+      </g>
+
+      <!-- Badge 3: Forensic Forensics -->
+      <g transform="translate(369, 0)">
+        <rect width="170" height="32" rx="16" fill="#fce7f3" stroke="#db2777" stroke-width="1"/>
+        <circle cx="16" cy="16" r="4" fill="#db2777"/>
+        <text x="28" y="20.5" fill="#831843" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700">MLOPS FORENSICS</text>
+      </g>
     </g>
   </g>
-  <rect x=".5" y=".5" width="1279" height="359" rx="23.5" fill="none" stroke="#18181b" stroke-opacity=".10"/>
+
+  <!-- High-Tech Outer Border -->
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="15.5" fill="none" stroke="#6366f1" stroke-opacity="0.2" stroke-width="1"/>
 </svg>
