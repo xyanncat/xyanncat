@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">xyanncat live system pulse</title>
+  <desc id="desc">Animated status strip for the GitHub profile.</desc>
+  <defs>
+    <linearGradient id="pulseLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#06b6d4"/>
+      <stop offset="0.82" stop-color="#f43f5e"/>
+      <stop offset="1" stop-color="#f43f5e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="112" rx="18" fill="#0b0b14" fill-opacity="0.82"/>
+  <rect x="1" y="1" width="1198" height="110" rx="17" fill="none" stroke="#8b5cf6" stroke-opacity="0.42"/>
+  <line x1="72" y1="58" x2="1128" y2="58" stroke="url(#pulseLine)" stroke-width="2"/>
+  <line x1="72" y1="58" x2="1128" y2="58" stroke="#e0e7ff" stroke-opacity="0.65" stroke-width="2" stroke-dasharray="6 16">
+    <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.6s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="180" cy="58" r="5" fill="#8b5cf6">
+    <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="58" r="5" fill="#06b6d4">
+    <animate attributeName="r" values="4;8;4" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1020" cy="58" r="5" fill="#f43f5e">
+    <animate attributeName="r" values="4;8;4" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="38" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="13" font-weight="700" letter-spacing="4" fill="#e0e7ff">LIVE SYSTEM PULSE</text>
+  <text x="600" y="88" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, monospace" font-size="12" letter-spacing="1.5" fill="#a5b4fc">AGENT INFRASTRUCTURE  ·  DIAGNOSTICS  ·  PRODUCT SYSTEMS</text>
+</svg>
