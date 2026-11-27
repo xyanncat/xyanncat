@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <strong>Deterministic foundations. Observable intelligence. Products that actually ship.</strong><br>
+  <strong>Deterministic foundations. Observable intelligence. Systems built in the open.</strong><br>
   <sub>Multi-agent orchestration, model diagnostics, Discord platforms, and Android AI tools.</sub>
 </div>
 
@@ -41,9 +41,21 @@
 
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-pulse-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-pulse-light.svg">
+    <img src="./assets/profile-pulse-dark.svg" width="100%" alt="Animated live system pulse">
+  </picture>
+</div>
+
+<br>
+
 <p align="center">
   <a href="#now">Now</a> &nbsp;✦&nbsp;
+  <a href="#live-pulse">Live Pulse</a> &nbsp;✦&nbsp;
   <a href="#selected-engineering-work">Selected Work</a> &nbsp;✦&nbsp;
+  <a href="#live-signals">Signals</a> &nbsp;✦&nbsp;
   <a href="#engineering-themes">Engineering Themes</a> &nbsp;✦&nbsp;
   <a href="#toolbox">Toolbox</a> &nbsp;✦&nbsp;
   <a href="#connect">Connect</a>
@@ -61,6 +73,23 @@
 | [Ei-point](https://github.com/xyanncat/Ei-point) | Six-identity Discord platform with shared domain services and a Kafka-themed dashboard | **In development** |
 
 > Ei-point is intentionally presented as a development build: local implementation is substantial, but live Discord, provider, payment, and recovery acceptance gates remain open.
+
+---
+
+## Live Pulse
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyanncat&theme=tokyonight" width="100%" alt="Live GitHub profile details for xyanncat">
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xyanncat&theme=tokyonight" width="100%" alt="Live repository language breakdown for xyanncat">
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Live metrics refresh from public GitHub data.</sub></p>
 
 ---
 
@@ -193,6 +222,22 @@ Seven repositories, chosen to show the full path from agent infrastructure to cu
     </td>
   </tr>
 </table>
+
+---
+
+## Live Signals
+
+Stars, primary language, and last-commit timestamps below are pulled live from GitHub.
+
+| Repository | Stars | Language | Last commit |
+| :--- | :---: | :---: | :---: |
+| [Ei-Void](https://github.com/xyanncat/Ei-Void) | <img src="https://img.shields.io/github/stars/xyanncat/Ei-Void?style=flat-square&logo=github&logoColor=white&label=stars" alt="Ei-Void stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Ei-Void?style=flat-square&logo=github&logoColor=white&label=lang" alt="Ei-Void language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Ei-Void?style=flat-square&logo=git&logoColor=white&label=updated" alt="Ei-Void last commit"> |
+| [Ei-point](https://github.com/xyanncat/Ei-point) | <img src="https://img.shields.io/github/stars/xyanncat/Ei-point?style=flat-square&logo=github&logoColor=white&label=stars" alt="Ei-point stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Ei-point?style=flat-square&logo=github&logoColor=white&label=lang" alt="Ei-point language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Ei-point?style=flat-square&logo=git&logoColor=white&label=updated" alt="Ei-point last commit"> |
+| [Eternyx](https://github.com/xyanncat/Eternyx) | <img src="https://img.shields.io/github/stars/xyanncat/Eternyx?style=flat-square&logo=github&logoColor=white&label=stars" alt="Eternyx stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Eternyx?style=flat-square&logo=github&logoColor=white&label=lang" alt="Eternyx language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Eternyx?style=flat-square&logo=git&logoColor=white&label=updated" alt="Eternyx last commit"> |
+| [agent-orchestration-system](https://github.com/xyanncat/agent-orchestration-system) | <img src="https://img.shields.io/github/stars/xyanncat/agent-orchestration-system?style=flat-square&logo=github&logoColor=white&label=stars" alt="agent orchestration stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/agent-orchestration-system?style=flat-square&logo=github&logoColor=white&label=lang" alt="agent orchestration language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/agent-orchestration-system?style=flat-square&logo=git&logoColor=white&label=updated" alt="agent orchestration last commit"> |
+| [Failure-forensics-tool-for-AI-pipelines](https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines) | <img src="https://img.shields.io/github/stars/xyanncat/Failure-forensics-tool-for-AI-pipelines?style=flat-square&logo=github&logoColor=white&label=stars" alt="Forensic-0 stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Failure-forensics-tool-for-AI-pipelines?style=flat-square&logo=github&logoColor=white&label=lang" alt="Forensic-0 language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Failure-forensics-tool-for-AI-pipelines?style=flat-square&logo=git&logoColor=white&label=updated" alt="Forensic-0 last commit"> |
+| [Model-regression-detection-system](https://github.com/xyanncat/Model-regression-detection-system) | <img src="https://img.shields.io/github/stars/xyanncat/Model-regression-detection-system?style=flat-square&logo=github&logoColor=white&label=stars" alt="Model regression stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Model-regression-detection-system?style=flat-square&logo=github&logoColor=white&label=lang" alt="Model regression language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Model-regression-detection-system?style=flat-square&logo=git&logoColor=white&label=updated" alt="Model regression last commit"> |
+| [Advanced-Agentic-Coding](https://github.com/xyanncat/Advanced-Agentic-Coding) | <img src="https://img.shields.io/github/stars/xyanncat/Advanced-Agentic-Coding?style=flat-square&logo=github&logoColor=white&label=stars" alt="llm-trainer stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Advanced-Agentic-Coding?style=flat-square&logo=github&logoColor=white&label=lang" alt="llm-trainer language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Advanced-Agentic-Coding?style=flat-square&logo=git&logoColor=white&label=updated" alt="llm-trainer last commit"> |
 
 ---
 
