@@ -36,7 +36,7 @@
   &nbsp;
   <a href="https://github.com/xyanncat?tab=repositories"><img src="https://img.shields.io/badge/Featured-7_Repositories-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=18181b" alt="Featured repositories"></a>
   &nbsp;
-  <a href="https://github.com/xyanncat?tab=followers"><img src="https://img.shields.io/github/followers/xyanncat?label=Followers&style=for-the-badge&logo=github&color=f43f5e&labelColor=18181b" alt="Followers"></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Open_to_Collaborate-Yes-10b981?style=for-the-badge&logo=handshake&logoColor=white&labelColor=18181b" alt="Open to collaborate"></a>
 </div>
 
 <br>
@@ -55,7 +55,7 @@
   <a href="#now">Now</a> &nbsp;✦&nbsp;
   <a href="#live-pulse">Live Pulse</a> &nbsp;✦&nbsp;
   <a href="#selected-engineering-work">Selected Work</a> &nbsp;✦&nbsp;
-  <a href="#live-signals">Signals</a> &nbsp;✦&nbsp;
+  <a href="#snapshot">Snapshot</a> &nbsp;✦&nbsp;
   <a href="#engineering-themes">Engineering Themes</a> &nbsp;✦&nbsp;
   <a href="#toolbox">Toolbox</a> &nbsp;✦&nbsp;
   <a href="#connect">Connect</a>
@@ -225,19 +225,19 @@ Seven repositories, chosen to show the full path from agent infrastructure to cu
 
 ---
 
-## Live Signals
+## Repository Snapshot
 
-Stars, primary language, and last-commit timestamps below are pulled live from GitHub.
+Values verified from the GitHub API on **27 Nov 2026**. Open each repository for current activity.
 
-| Repository | Stars | Language | Last commit |
-| :--- | :---: | :---: | :---: |
-| [Ei-Void](https://github.com/xyanncat/Ei-Void) | <img src="https://img.shields.io/github/stars/xyanncat/Ei-Void?style=flat-square&logo=github&logoColor=white&label=stars" alt="Ei-Void stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Ei-Void?style=flat-square&logo=github&logoColor=white&label=lang" alt="Ei-Void language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Ei-Void?style=flat-square&logo=git&logoColor=white&label=updated" alt="Ei-Void last commit"> |
-| [Ei-point](https://github.com/xyanncat/Ei-point) | <img src="https://img.shields.io/github/stars/xyanncat/Ei-point?style=flat-square&logo=github&logoColor=white&label=stars" alt="Ei-point stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Ei-point?style=flat-square&logo=github&logoColor=white&label=lang" alt="Ei-point language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Ei-point?style=flat-square&logo=git&logoColor=white&label=updated" alt="Ei-point last commit"> |
-| [Eternyx](https://github.com/xyanncat/Eternyx) | <img src="https://img.shields.io/github/stars/xyanncat/Eternyx?style=flat-square&logo=github&logoColor=white&label=stars" alt="Eternyx stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Eternyx?style=flat-square&logo=github&logoColor=white&label=lang" alt="Eternyx language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Eternyx?style=flat-square&logo=git&logoColor=white&label=updated" alt="Eternyx last commit"> |
-| [agent-orchestration-system](https://github.com/xyanncat/agent-orchestration-system) | <img src="https://img.shields.io/github/stars/xyanncat/agent-orchestration-system?style=flat-square&logo=github&logoColor=white&label=stars" alt="agent orchestration stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/agent-orchestration-system?style=flat-square&logo=github&logoColor=white&label=lang" alt="agent orchestration language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/agent-orchestration-system?style=flat-square&logo=git&logoColor=white&label=updated" alt="agent orchestration last commit"> |
-| [Failure-forensics-tool-for-AI-pipelines](https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines) | <img src="https://img.shields.io/github/stars/xyanncat/Failure-forensics-tool-for-AI-pipelines?style=flat-square&logo=github&logoColor=white&label=stars" alt="Forensic-0 stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Failure-forensics-tool-for-AI-pipelines?style=flat-square&logo=github&logoColor=white&label=lang" alt="Forensic-0 language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Failure-forensics-tool-for-AI-pipelines?style=flat-square&logo=git&logoColor=white&label=updated" alt="Forensic-0 last commit"> |
-| [Model-regression-detection-system](https://github.com/xyanncat/Model-regression-detection-system) | <img src="https://img.shields.io/github/stars/xyanncat/Model-regression-detection-system?style=flat-square&logo=github&logoColor=white&label=stars" alt="Model regression stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Model-regression-detection-system?style=flat-square&logo=github&logoColor=white&label=lang" alt="Model regression language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Model-regression-detection-system?style=flat-square&logo=git&logoColor=white&label=updated" alt="Model regression last commit"> |
-| [Advanced-Agentic-Coding](https://github.com/xyanncat/Advanced-Agentic-Coding) | <img src="https://img.shields.io/github/stars/xyanncat/Advanced-Agentic-Coding?style=flat-square&logo=github&logoColor=white&label=stars" alt="llm-trainer stars"> | <img src="https://img.shields.io/github/languages/top/xyanncat/Advanced-Agentic-Coding?style=flat-square&logo=github&logoColor=white&label=lang" alt="llm-trainer language"> | <img src="https://img.shields.io/github/last-commit/xyanncat/Advanced-Agentic-Coding?style=flat-square&logo=git&logoColor=white&label=updated" alt="llm-trainer last commit"> |
+| Repository | Stars | Language | Last push |
+| :--- | :---: | :--- | :--- |
+| [Ei-Void](https://github.com/xyanncat/Ei-Void) | 0 | Kotlin | 2026-11-27 |
+| [Ei-point](https://github.com/xyanncat/Ei-point) | 1 | TypeScript | 2026-11-09 |
+| [Eternyx](https://github.com/xyanncat/Eternyx) | 1 | JavaScript | 2026-10-18 |
+| [agent-orchestration-system](https://github.com/xyanncat/agent-orchestration-system) | 1 | Python | 2026-08-01 |
+| [Failure-forensics-tool-for-AI-pipelines](https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines) | 1 | Python | 2026-08-01 |
+| [Model-regression-detection-system](https://github.com/xyanncat/Model-regression-detection-system) | 1 | TypeScript | 2026-08-01 |
+| [Advanced-Agentic-Coding](https://github.com/xyanncat/Advanced-Agentic-Coding) | 1 | Python | 2026-08-01 |
 
 ---
 
