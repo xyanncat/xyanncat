@@ -6,355 +6,244 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-    <img alt="xyanncat — AI Systems Architect & Agentic Engineer" src="./assets/profile-banner-dark.svg" width="100%">
+    <img alt="xyanncat — Agentic AI systems and product engineer" src="./assets/profile-banner-dark.svg" width="100%">
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/avatar.jpg" width="110" height="110" style="border-radius: 50%; border: 3px solid #8b5cf6; box-shadow: 0 0 20px rgba(139, 92, 246, 0.4);" alt="xyanncat avatar">
+  <img src="./assets/avatar.jpg" width="104" height="104" alt="xyanncat avatar">
 </div>
 
 <br>
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=hi%2C+i'm+xyanncat+%F0%9F%90%88%E2%80%8D%E2%AC%9B;AI+Systems+Architect+%2B+Agentic+Engineer;Architecting+Multi-Agent+Task+Graphs+(DAGs);Building+Autonomous+AI+Engines+%2B+5L+Memory;Model+Regression+Forensics+%26+Diagnostics;Python+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+Next.js+16" alt="xyanncat Dynamic Typing Header">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=hi%2C+I%27m+xyanncat+%F0%9F%90%88%E2%80%8D%E2%AC%9B;Agentic+AI+systems+%2B+product+engineer;Currently+building+Ei-Void+%2B+Ei-point" alt="xyanncat dynamic heading">
   </h1>
 </div>
 
 <div align="center">
-  <strong>Thoughtful systems. Deterministic foundations. Autonomous intelligence.</strong><br>
-  <sub>Turning complex agentic workflows into dependable, observable, and production-grade software.</sub>
+  <strong>Deterministic foundations. Observable intelligence. Products that actually ship.</strong><br>
+  <sub>Multi-agent orchestration, model diagnostics, Discord platforms, and Android AI tools.</sub>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/xyanncat"><img src="https://img.shields.io/badge/GitHub-xyanncat-09090b?style=for-the-badge&logo=github&logoColor=white&labelColor=18181b" alt="GitHub"></a>
+  <a href="https://github.com/xyanncat"><img src="https://img.shields.io/badge/GitHub-xyanncat-18181b?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" alt="GitHub"></a>
   &nbsp;
-  <a href="https://github.com/xyanncat?tab=repositories"><img src="https://img.shields.io/badge/Repositories-12_Public-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=18181b" alt="Repositories"></a>
-  &nbsp;
-  <a href="https://komarev.com/ghpvc/?username=xyanncat&style=for-the-badge&color=06b6d4&label=Profile+Views&labelColor=18181b"><img src="https://komarev.com/ghpvc/?username=xyanncat&style=for-the-badge&color=06b6d4&label=Profile+Views&labelColor=18181b" alt="Profile Views"></a>
+  <a href="https://github.com/xyanncat?tab=repositories"><img src="https://img.shields.io/badge/Featured-7_Repositories-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=18181b" alt="Featured repositories"></a>
   &nbsp;
   <a href="https://github.com/xyanncat?tab=followers"><img src="https://img.shields.io/github/followers/xyanncat?label=Followers&style=for-the-badge&logo=github&color=f43f5e&labelColor=18181b" alt="Followers"></a>
 </div>
 
 <br>
 
-<div align="center">
-  <a href="#-system-directive">Directive</a>&nbsp;&nbsp;✦&nbsp;&nbsp;
-  <a href="#-flagship-systems--engineering-portfolio">Flagship Systems</a>&nbsp;&nbsp;✦&nbsp;&nbsp;
-  <a href="#-engineering-toolbox--tech-stack">Toolbox</a>&nbsp;&nbsp;✦&nbsp;&nbsp;
-  <a href="#-architecture--engineering-philosophy">Architecture</a>&nbsp;&nbsp;✦&nbsp;&nbsp;
-  <a href="#-live-telemetry--activity">Telemetry</a>&nbsp;&nbsp;✦&nbsp;&nbsp;
-  <a href="#-connect--collaborate">Connect</a>
-</div>
+<p align="center">
+  <a href="#now">Now</a> &nbsp;✦&nbsp;
+  <a href="#selected-engineering-work">Selected Work</a> &nbsp;✦&nbsp;
+  <a href="#engineering-themes">Engineering Themes</a> &nbsp;✦&nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp;✦&nbsp;
+  <a href="#connect">Connect</a>
+</p>
 
 <br>
 
 ---
 
-## ⚡ System Directive
+## Now
 
-```text
-╭─────────────────────────────── SYSTEM STATUS : ONLINE ────────────────────────────────╮
-│                                                                                       │
-│  OPERATOR     : xyanncat (Dev cat / Manas)                                           │
-│  DOMAIN       : Agentic AI Systems · Multi-Agent DAGs · MLOps Forensics · Full-Stack │
-│  DIRECTIVE    : Engineering resilient multi-LLM workflows with deterministic quality  │
-│                                                                                       │
-│  CURRENT SPECIALIZATIONS:                                                             │
-│  ✦ Multi-Agent Task Graphs : DAG planning, parallel dispatch, and tool sandboxing    │
-│  ✦ Cognitive Memory Engines: 5-Layer memory (Working, Short, Long, Semantic, Episodic)│
-│  ✦ Model Regression Gating : Statistical 1.5x σ delta isolation & rollback hooks     │
-│  ✦ AI Pipeline Forensics   : Trace reconstruction, secret-redacted root-cause analysis│
-│                                                                                       │
-│  CORE ETHOS:                                                                          │
-│  clarity over cleverness · quality over noise · progress over perfection              │
-╰───────────────────────────────────────────────────────────────────────────────────────╯
-```
+| Current focus | What it is | State |
+| :--- | :--- | :--- |
+| [Ei-Void](https://github.com/xyanncat/Ei-Void) | OLED Android assistant, local-first reminders, and a guarded GitHub coding agent | **Active** |
+| [Ei-point](https://github.com/xyanncat/Ei-point) | Six-identity Discord platform with shared domain services and a Kafka-themed dashboard | **In development** |
+
+> Ei-point is intentionally presented as a development build: local implementation is substantial, but live Discord, provider, payment, and recovery acceptance gates remain open.
 
 ---
 
-## 🚀 Flagship Systems & Engineering Portfolio
+## Selected Engineering Work
 
-Selected open-source frameworks and production systems architected from first principles:
+Seven repositories, chosen to show the full path from agent infrastructure to shipped products.
 
 <table>
-  <!-- Row 1: Agent Orchestration & Noa -->
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>👺 <a href="https://github.com/xyanncat/agent-orchestration-system">Agent Orchestration System</a></h3>
-      </div>
-      <p>
-        <strong>High-performance multi-agent framework</strong> powered by <strong>NVIDIA NIM</strong> and <strong>OpenRouter</strong> multi-LLM routing. Decomposes goals into <strong>Directed Acyclic Task Graphs (DAGs)</strong> with specialized panels: <code>Planner</code>, <code>Researcher</code>, <code>Coder</code>, <code>Reviewer</code>, and <code>Executor</code>.
-      </p>
+      <h3><a href="https://github.com/xyanncat/Ei-Void">Ei-Void</a> <code>ACTIVE</code></h3>
+      <p><strong>An OLED Android AI assistant that also keeps bills, renewals, and code within reach.</strong></p>
       <ul>
-        <li><b>Parallel DAG Scheduler</b> with auto-retry, fallback, and tool sandboxing.</li>
-        <li><b>Real-time SSE progress streaming</b> + human-in-the-loop escalation gates.</li>
-        <li><b>Shared state memory</b> backed by SQLite long-term persistence.</li>
+        <li>Assistant home, slide-out drawer, capability cards, and a restrained OLED design system.</li>
+        <li>Local-first payment reminders with exact Android alarms, Mark Paid, Snooze, and Discord delivery.</li>
+        <li>Phone-native coding agent that clones a GitHub repository and edits it through guarded tools.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/xyanncat/agent-orchestration-system"><img src="https://img.shields.io/badge/Python_FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-        <a href="https://github.com/xyanncat/agent-orchestration-system"><img src="https://img.shields.io/badge/React_TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
-        <a href="https://github.com/xyanncat/agent-orchestration-system"><img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA NIM"></a>
+        <a href="https://github.com/xyanncat/Ei-Void"><img src="https://img.shields.io/badge/Kotlin-Compose-A97BDC?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Compose"></a>
+        <a href="https://github.com/xyanncat/Ei-Void"><img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Express"></a>
+        <a href="https://github.com/xyanncat/Ei-Void"><img src="https://img.shields.io/badge/PostgreSQL-MIT-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL MIT"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xyanncat/Ei-point">Ei-point</a> <code>IN DEVELOPMENT</code></h3>
+      <p><strong>A modular TypeScript and Python monorepo for a coordinated Discord bot fleet.</strong></p>
+      <ul>
+        <li>Six identities—Kafka, Cyrene, Robin, Cipher, SilverWolf, and Himiko—behind shared domain modules.</li>
+        <li>Fastify API, background workers, PostgreSQL, migrations, health checks, and immutable release manifests.</li>
+        <li>Kafka-themed public site and dashboard with documented phase gates and recovery procedures.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/xyanncat/Ei-point"><img src="https://img.shields.io/badge/TypeScript-Python-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Python"></a>
+        <a href="https://github.com/xyanncat/Ei-point"><img src="https://img.shields.io/badge/PostgreSQL-MIT-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL MIT"></a>
+        <a href="https://github.com/xyanncat/Ei-point"><img src="https://img.shields.io/badge/Status-Development-f59e0b?style=flat-square" alt="In development"></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xyanncat/Eternyx">Eternyx</a> <code>MAINTAINED</code></h3>
+      <p><strong>A security-first Discord moderation bot designed for a low-resource Termux host.</strong></p>
+      <ul>
+        <li>Slash commands only, every response an embed, and no inbound HTTP ports.</li>
+        <li>Least-privilege permissions, hierarchy-safe actions, write-ahead SQLite audit records, and tamper alerts.</li>
+        <li>Node.js with <code>node:sqlite</code>, runit supervision, boot hooks, and nightly backups.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/xyanncat/Eternyx"><img src="https://img.shields.io/badge/Node.js-22+-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"></a>
+        <a href="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"><img src="https://img.shields.io/badge/node:sqlite-stdlib-4EAA25?style=flat-square&logo=sqlite&logoColor=white" alt="node sqlite"></a>
+        <a href="https://github.com/xyanncat/Eternyx"><img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xyanncat/agent-orchestration-system">Agent Orchestration System</a> <code>FOUNDATION</code></h3>
+      <p><strong>A multi-provider framework that decomposes goals into directed acyclic task graphs.</strong></p>
+      <ul>
+        <li>Planner, Researcher, Coder, Reviewer, and Executor panels acting as decoupled DAG nodes.</li>
+        <li>Auto-retry, fallback routing, shared state memory, SSE progress, and deterministic offline simulation.</li>
+        <li>NVIDIA NIM, OpenRouter, Anthropic, OpenAI, Gemini, and local Ollama providers.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/xyanncat/agent-orchestration-system"><img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Python FastAPI"></a>
+        <a href="https://github.com/xyanncat/agent-orchestration-system"><img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="React TypeScript"></a>
         <a href="https://github.com/xyanncat/agent-orchestration-system"><img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"></a>
-        <img src="https://img.shields.io/badge/Status-FEATURED-8b5cf6?style=flat-square" alt="Status">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>✦ <a href="https://github.com/xyanncat/Noa">Noa — Autonomous AI Engine</a></h3>
-      </div>
-      <p>
-        <strong>Autonomous AI system with a 5-Layer Memory Engine</strong>, multi-step autonomous planner, 12-tool ecosystem, and multi-platform client suite. Operates with zero cloud dependencies via a built-in offline engine or connects to Gemini/GPT-4o.
-      </p>
-      <ul>
-        <li><b>5-Layer Memory Architecture</b>: Working, Short-Term, Long-Term, Semantic, Episodic.</li>
-        <li><b>Liquid Glass UI Kit</b> + <b>Cortex Responsive Dashboard</b>.</li>
-        <li><b>Multi-Platform Clients</b>: Desktop (Tauri v2 + Rust) & Signed Android APK.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/xyanncat/Noa"><img src="https://img.shields.io/badge/Python_3.14+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-        <a href="https://github.com/xyanncat/Noa"><img src="https://img.shields.io/badge/Tauri_v2-Rust-FFC107?style=flat-square&logo=tauri&logoColor=black" alt="Tauri"></a>
-        <a href="https://github.com/xyanncat/Noa"><img src="https://img.shields.io/badge/React_Native-Android-61DAFB?style=flat-square&logo=android&logoColor=black" alt="Android"></a>
-        <a href="https://github.com/xyanncat/Noa/releases/tag/v2.2.0"><img src="https://img.shields.io/badge/Release-v2.2.0-06b6d4?style=flat-square" alt="Release"></a>
-        <img src="https://img.shields.io/badge/Status-FEATURED-8b5cf6?style=flat-square" alt="Status">
       </p>
     </td>
   </tr>
 
-  <!-- Row 2: Regression Detection & Forensic-0 -->
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🎯 <a href="https://github.com/xyanncat/Model-regression-detection-system">Model Regression Detection System</a></h3>
-      </div>
-      <p>
-        <strong>Production-grade MLOps engine</strong> that detects, classifies, and reports quality/behavior regressions between baseline and candidate model runs in multi-model orchestration routers.
-      </p>
+      <h3><a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines">Forensic-0</a> <code>OPEN SOURCE</code></h3>
+      <p><strong>A command-line forensics engine for failed AI pipelines.</strong></p>
       <ul>
-        <li><b>Statistical 1.5× σ Noise Thresholding</b> against rolling variance.</li>
-        <li><b>Cheapest-first root cause isolator</b>: Truncation → Prompt diff → Model diff.</li>
-        <li><b>Strict Zod schemas</b> + N≥3 reproduction gate for critical severity rollbacks.</li>
+        <li>Zero-dependency Python evidence extraction reconstructs DAGs and detects latency, truncation, and divergence anomalies.</li>
+        <li>Optional secret-redacted LLM reasoning across OpenAI, Anthropic, and Ollama.</li>
+        <li>Fully offline <code>--dry-run</code> mode for reproducible diagnostics.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/xyanncat/Model-regression-detection-system"><img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
-        <a href="https://github.com/xyanncat/Model-regression-detection-system"><img src="https://img.shields.io/badge/Vitest-36+_Tests-729B1B?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"></a>
-        <a href="https://github.com/xyanncat/Model-regression-detection-system"><img src="https://img.shields.io/badge/Zod-Validated-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod"></a>
-        <img src="https://img.shields.io/badge/Status-BUILDING-f59e0b?style=flat-square" alt="Status">
+        <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines"><img src="https://img.shields.io/badge/Python-stdlib-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+        <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines"><img src="https://img.shields.io/badge/CLI-forensic0-06b6d4?style=flat-square&logo=gnubash&logoColor=white" alt="forensic0 CLI"></a>
+        <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines"><img src="https://img.shields.io/badge/Offline-Dry_Run-10b981?style=flat-square" alt="Offline dry run"></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🕵️ <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines">Forensic-0 — AI Pipeline Diagnostics</a></h3>
-      </div>
-      <p>
-        <strong>Global command-line forensics engine</strong> for AI pipeline failures. Ingests execution traces, DAG topology, and error payloads to reconstruct graphs, detect anomalies, and isolate root causes.
-      </p>
+      <h3><a href="https://github.com/xyanncat/Model-regression-detection-system">Model Regression Detection</a> <code>BUILDING</code></h3>
+      <p><strong>Statistical quality and behavior regression gating for multi-model routers.</strong></p>
       <ul>
-        <li><b>Deterministic Phase 1–2 Engine</b>: Zero external dependencies (Python stdlib).</li>
-        <li><b>Anomaly & Divergence Diffs</b>: Latency spikes, output truncation, verifier misses.</li>
-        <li><b>Secret-redacted LLM reasoning</b> (OpenAI / Anthropic / Ollama) + offline <code>--dry-run</code>.</li>
+        <li>Flags changes only beyond a <code>1.5 × σ</code> rolling-variance noise threshold.</li>
+        <li>Cheapest-first root-cause isolation: truncation, prompt diff, model diff, provider, then eval drift.</li>
+        <li>Strict Zod verdicts, severity classes, and an <code>N≥3</code> reproduction gate for critical rollbacks.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
-        <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines"><img src="https://img.shields.io/badge/CLI-Forensic0-06b6d4?style=flat-square&logo=gnubash&logoColor=white" alt="CLI"></a>
-        <a href="https://github.com/xyanncat/Failure-forensics-tool-for-AI-pipelines"><img src="https://img.shields.io/badge/Pytest-Verified-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"></a>
-        <img src="https://img.shields.io/badge/Status-OPEN_SOURCE-10b981?style=flat-square" alt="Status">
+        <a href="https://github.com/xyanncat/Model-regression-detection-system"><img src="https://img.shields.io/badge/TypeScript-Zod-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Zod"></a>
+        <a href="https://github.com/xyanncat/Model-regression-detection-system"><img src="https://img.shields.io/badge/Vitest-36_Tests-729B1B?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"></a>
+        <a href="https://github.com/xyanncat/Model-regression-detection-system"><img src="https://img.shields.io/badge/CI_Ready-Exit_Codes-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI ready"></a>
       </p>
     </td>
   </tr>
 
-  <!-- Row 3: Eternity & Makima -->
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🛡️ <a href="https://github.com/xyanncat/Eternity.">Eternity. — Bot & Next.js 16 Dashboard</a></h3>
-      </div>
-      <p>
-        <strong>Production-ready Discord bot & full-stack web dashboard monorepo</strong>. Features moderation, audit logging, ticketing with dynamic HTML transcripts, XP economy, and AI utilities.
-      </p>
+      <h3><a href="https://github.com/xyanncat/Advanced-Agentic-Coding">llm-trainer</a> <code>FOUNDATION</code></h3>
+      <p><strong>A hardware-adaptive LLM training framework that lives in the Advanced-Agentic-Coding repository.</strong></p>
       <ul>
-        <li><b>Next.js 16 App Router</b> dashboard with NextAuth Discord OAuth2.</li>
-        <li><b>PostgreSQL + Prisma ORM</b>, Redis caching, and automated Stripe billing.</li>
-        <li><b>Dynamic Rank Cards</b> generated with hardware-accelerated <code>@napi-rs/canvas</code>.</li>
+        <li>SFT, GRPO, PPO, DPO, PEFT, LoRA, QLoRA, and TorchAO across NVIDIA, Apple Silicon, AMD, and CPU targets.</li>
+        <li>Profiles RAM and VRAM to adapt batch size, sequence length, gradient accumulation, and offloading.</li>
+        <li>WandB and TensorBoard logging, LM Eval Harness, and GGUF export.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/xyanncat/Eternity."><img src="https://img.shields.io/badge/Next.js_16-App_Router-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"></a>
-        <a href="https://github.com/xyanncat/Eternity."><img src="https://img.shields.io/badge/Prisma-PostgreSQL-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"></a>
-        <a href="https://github.com/xyanncat/Eternity."><img src="https://img.shields.io/badge/Discord.js_v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"></a>
-        <a href="https://github.com/xyanncat/Eternity."><img src="https://img.shields.io/badge/Monorepo-GitHub-8b5cf6?style=flat-square&logo=git&logoColor=white" alt="Monorepo"></a>
+        <a href="https://github.com/xyanncat/Advanced-Agentic-Coding"><img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+        <a href="https://github.com/xyanncat/Advanced-Agentic-Coding"><img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"></a>
+        <a href="https://github.com/xyanncat/Advanced-Agentic-Coding"><img src="https://img.shields.io/badge/GGUF-Export-06b6d4?style=flat-square" alt="GGUF export"></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>⛓️ <a href="https://github.com/xyanncat/Makima">Makima — Groq AI Live Stream Bot</a></h3>
-      </div>
+      <h3>How to read the statuses</h3>
       <p>
-        <strong>Ultra-fast multi-platform AI live stream chatbot</strong> running on the Groq API. Automatically connects to and manages chatrooms across YouTube Live, Twitch, and Kick simultaneously.
+        <code>ACTIVE</code> — current primary build.<br>
+        <code>IN DEVELOPMENT</code> — implemented surface with explicit open gates.<br>
+        <code>MAINTAINED</code> — working system outside the current rewrite.<br>
+        <code>OPEN SOURCE</code> — documented tool with a reproducible workflow.<br>
+        <code>BUILDING</code> — active engineering with test and CI focus.<br>
+        <code>FOUNDATION</code> — earlier architecture still informing current systems.
       </p>
-      <ul>
-        <li><b>Ultra-low latency Groq AI</b>: Instant fallback from Llama 3.1 70B to 8B.</li>
-        <li><b>YouTube Data API live-chat poller</b> with quota backoff & token refresh.</li>
-        <li><b>Real-time Telemetry Dashboard</b> with glassmorphism console feeds.</li>
-      </ul>
       <p align="center">
-        <a href="https://github.com/xyanncat/Makima"><img src="https://img.shields.io/badge/Groq_API-Llama_3.1-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"></a>
-        <a href="https://github.com/xyanncat/Makima"><img src="https://img.shields.io/badge/YouTube_API-Live_Poller-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-        <a href="https://github.com/xyanncat/Makima"><img src="https://img.shields.io/badge/TypeScript-Express-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Express"></a>
-        <a href="https://github.com/xyanncat/Makima"><img src="https://img.shields.io/badge/Render-Deployed-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"></a>
+        <a href="https://github.com/xyanncat?tab=repositories"><img src="https://img.shields.io/badge/Explore-All_Repositories-8b5cf6?style=for-the-badge&logo=git&logoColor=white&labelColor=18181b" alt="Explore repositories"></a>
       </p>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-> **Taxonomy & Repository Scanning Guide:**
->
-> | Label | Operational Meaning |
-> | :--- | :--- |
-> | `FEATURED` | High-polish production architecture representing core engineering capability |
-> | `BUILDING` | Actively developed system with frequent structural commits and benchmark updates |
-> | `OPEN SOURCE` | Public tool with documented contribution pathways, test suites, and issue trackers |
-> | `EXPERIMENT` | Focused algorithmic exploration, proof-of-concept, or prototype |
-> | `ARCHIVED` | Preserved complete reference implementation |
+## Engineering Themes
+
+1. **Deterministic foundations first** — verify what can be verified locally before delegating ambiguous reasoning to a model.
+2. **Decoupled agent topologies** — single-responsibility DAG nodes, validated schemas, retry paths, and explicit fallback routing.
+3. **Bounded memory and context** — partition state instead of growing prompts without limit.
+4. **Observability by default** — traces, audit records, severity gates, and rollback hooks are part of the design, not an afterthought.
 
 ---
 
-## 🧰 Engineering Toolbox & Tech Stack
+## Toolbox
 
-A battle-tested stack spanning cognitive AI architectures, distributed backends, systems programming, and modern interfaces:
-
-<div align="center">
-
-### 🤖 Agentic AI & Multi-LLM Routing
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM">
-  <img src="https://img.shields.io/badge/Groq_Cloud-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq">
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/OpenRouter-6E40C9?style=for-the-badge&logo=fastapi&logoColor=white" alt="OpenRouter">
-  <img src="https://img.shields.io/badge/Ollama_Local-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-</p>
-
-### 💻 Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Python_3.14+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript_ESNext-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Kotlin-A97BDC?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PowerShell_%26_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-### ⚙️ Backend & Distributed Systems
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Node.js_22-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Next.js_16_(App_Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Server--Sent_Events-8b5cf6?style=for-the-badge&logo=rss&logoColor=white" alt="SSE">
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets">
-</p>
-
-### 🎨 Frontend & Cross-Platform Applications
-<p>
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Tauri_v2_(Rust)-FFC107?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Liquid_Glass_UI-7C3AED?style=for-the-badge&logo=framer&logoColor=white" alt="Liquid Glass UI">
-</p>
-
-### 🗄️ Database, Caching & ORM
-<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Vector_Embeddings-06B6D4?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB">
 </p>
 
-### 🛠️ Quality Assurance, DevOps & Infrastructure
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Tauri_v2-FFC107?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri v2">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-</div>
-
 ---
 
-## 🏛️ Architecture & Engineering Philosophy
+## Connect
 
-When building complex agentic frameworks and autonomous engines, four principles govern the codebase:
+Open to architecture reviews, AI-pipeline diagnostics, agent infrastructure discussions, and high-impact product collaboration.
 
-```mermaid
-graph TD
-    A[1. Deterministic Foundations First] --> B[2. Decoupled DAG Topologies]
-    B --> C[3. Multi-Tiered Memory Hierarchies]
-    C --> D[4. Observability & Telemetry by Default]
-    
-    style A fill:#0d0e24,stroke:#8b5cf6,stroke-width:2px,color:#e0e7ff
-    style B fill:#083344,stroke:#06b6d4,stroke-width:2px,color:#cffafe
-    style C fill:#1e1b4b,stroke:#8b5cf6,stroke-width:2px,color:#e0e7ff
-    style D fill:#311333,stroke:#f43f5e,stroke-width:2px,color:#fae8ff
-```
-
-1. **Deterministic Foundations First**: An AI pipeline is only as reliable as its deterministic scaffolding. Tools like `Forensic-0` use zero-dependency Python standard library verification before delegating ambiguous reasoning to LLMs.
-2. **Decoupled DAG Topologies**: Autonomous agents perform best when partitioned into single-responsibility nodes (Planner, Researcher, Coder, Reviewer, Executor) communicating over strictly validated schemas (Zod / Pydantic) with automated retry and fallback routing.
-3. **Multi-Tiered Memory Hierarchies**: Context shouldn't bloat unbounded. Partitioning state across 5 distinct memory layers (Working, Short-Term, Long-Term, Semantic, Episodic) guarantees continuity without catastrophic context rot.
-4. **Observability by Default**: Every agent step, tool invocation, token count, and latency metric is streamed via SSE or recorded in structured precedent scoreboards for instant root-cause analysis.
-
----
-
-## 📊 Live Telemetry & Activity
-
-<div align="center">
-  <table border="0" align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyanncat&theme=tokyonight" width="100%" alt="xyanncat GitHub Profile Summary">
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xyanncat&theme=tokyonight" width="100%" alt="xyanncat Top Languages">
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-Whether you're exploring multi-agent architectures, discussing LLM evaluation benchmarks, or collaborating on high-performance open-source tools, my inbox is always open.
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/xyanncat"><img src="https://img.shields.io/badge/GitHub-Profile-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"></a>
+<p align="center">
+  <a href="https://github.com/xyanncat"><img src="https://img.shields.io/badge/GitHub-Profile-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
   &nbsp;
-  <a href="https://github.com/xyanncat?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-8b5cf6?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/xyanncat?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-8b5cf6?style=for-the-badge&logo=git&logoColor=white" alt="Explore repositories"></a>
   &nbsp;
-  <a href="https://github.com/xyanncat?tab=followers"><img src="https://img.shields.io/badge/Follow-Developer-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Follow"></a>
+  <a href="https://github.com/xyanncat?tab=followers"><img src="https://img.shields.io/badge/Follow-Developer-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="Follow developer"></a>
 </p>
-
-<sub><i>Open to technical discussions, architecture reviews, and high-impact AI infrastructure collaboration.</i></sub>
-
-</div>
-
-<br>
 
 <div align="center">
   <picture>
