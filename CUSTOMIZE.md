@@ -1,6 +1,6 @@
 # xyanncat — GitHub Profile Documentation & Maintenance Guide
 
-This profile presents seven selected repositories across agent infrastructure, AI diagnostics, Discord platforms, and Android AI products, with restrained live and animated UI elements.
+This profile presents seven selected repositories across agent infrastructure, AI diagnostics, Discord platforms, and Android AI products, with restrained animated elements and verified live-data cards.
 
 ---
 
@@ -23,17 +23,17 @@ The pulse strip uses SVG `<animate>` elements. Keep the motion slow and subtle, 
 
 ---
 
-## Live elements
+## Live and animated elements
 
 | Element | Source | Notes |
 | :--- | :--- | :--- |
 | Animated heading | `readme-typing-svg.demolab.com` | Three short lines only. |
 | Animated pulse strip | Local SVG assets | Theme-aware; no external dependency. |
-| Follower badge | `img.shields.io` | Live GitHub follower count. |
 | Live Pulse cards | `github-profile-summary-cards.vercel.app` | Profile details and language breakdown from public GitHub data. |
-| Live Signals table | `img.shields.io` | Stars, primary language, and last commit for all seven featured repositories. |
+| Static project badges | `img.shields.io/badge/...` | These do not call the GitHub API and render reliably. |
+| Repository snapshot | GitHub API, refreshed manually | Static values with a dated verification line. |
 
-If a third-party live image stops rendering, replace the endpoint or remove that element. Do not leave broken images in the profile.
+Do not use `img.shields.io/github/...` dynamic badges in this README. The GitHub-backed Shields endpoints failed to render in the GitHub profile; the dated snapshot is the reliable replacement.
 
 ---
 
@@ -72,24 +72,30 @@ If a third-party live image stops rendering, replace the endpoint or remove that
    - Edit the `## Selected Engineering Work` HTML table.
    - Keep one `<td>` cell per project with: title, one-sentence purpose, three bullets, and a small badge row.
    - Replace a stale project instead of growing the list beyond seven.
-   - Add matching rows to `## Live Signals`.
+   - Add a matching row to `## Repository Snapshot`.
 
-3. **Update the animated heading**
+3. **Refresh the repository snapshot**
+   - Read each repository’s `stargazers_count`, `language`, and `pushed_at` from the GitHub API.
+   - Update the verification date at the top of the snapshot.
+   - Keep the values as plain text; do not reintroduce failing dynamic badges.
+
+4. **Update the animated heading**
    - Edit the `lines` query parameter in the `readme-typing-svg` URL.
    - Use accurate, durable wording.
 
-4. **Update this guide**
+5. **Update this guide**
    - Keep the featured-repository table in sync with `README.md`.
    - Use canonical GitHub URLs; avoid redirecting or legacy paths.
 
-5. **Validate assets**
+6. **Validate assets**
    ```bash
    python -c "import xml.etree.ElementTree as ET, glob; [ET.parse(f) for f in glob.glob('assets/*.svg')]; print('All SVGs valid!')"
    ```
 
-6. **Render check**
+7. **Render check**
    - Open the profile on desktop and mobile.
    - Check both light and dark themes.
    - Confirm the typing heading and pulse strip animate without distraction.
-   - Confirm the Live Pulse cards, follower badge, and all Live Signals badges render.
-   - Confirm all seven repository links and badge links open the intended repository.
+   - Confirm the Live Pulse cards render.
+   - Confirm there are no broken image placeholders anywhere in the README.
+   - Confirm all seven repository links open the intended repository.
