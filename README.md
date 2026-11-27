@@ -66,7 +66,7 @@
 
 ## Selected Engineering Work
 
-Seven repositories, chosen to show the full path from agent infrastructure to shipped products.
+Seven repositories, chosen to show the full path from agent infrastructure to current products.
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ Seven repositories, chosen to show the full path from agent infrastructure to sh
       </ul>
       <p align="center">
         <a href="https://github.com/xyanncat/Eternyx"><img src="https://img.shields.io/badge/Node.js-22+-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"></a>
-        <a href="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"><img src="https://img.shields.io/badge/node:sqlite-stdlib-4EAA25?style=flat-square&logo=sqlite&logoColor=white" alt="node sqlite"></a>
+        <a href="https://github.com/xyanncat/Eternyx"><img src="https://img.shields.io/badge/node:sqlite-stdlib-4EAA25?style=flat-square&logo=sqlite&logoColor=white" alt="node sqlite"></a>
         <a href="https://github.com/xyanncat/Eternyx"><img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js"></a>
       </p>
     </td>
